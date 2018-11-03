@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Courgette|Play');
+
+.équipe{
+  display: flex;
+  justify-content: space-around;
+  
+}
+.App{
+  background-color:whitesmoke;
+  
+}
+
+.titre{
+  text-align: center;
+  color: dimgray;
+  padding-bottom: 1%;
+  padding-top: 2%;
+  font-size: 300%;
+}
+.job{
+color: rgb(161, 159, 159);
+font-size: 150%;
+margin: 0%;
+font-family:Josefin Sans;
+padding-bottom: 10px;
+}
+
+
+.name{
+  display: flex;
+  font-size:160%;
+  font-family: Courgette;
+  color:rgb(94, 94, 94);
+}
+.sname{
+  padding-left: 10px;
+  color:rgb(65, 64, 64);
+}
